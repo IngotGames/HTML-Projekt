@@ -1,0 +1,25 @@
+h1 {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: rgb(247, 247, 187);
+    line-height: 3rem;
+    text-align: center;
+}
+h2 {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: rgb(248, 248, 210);
+    line-height: 3rem;
+    text-align: center;
+}
+p {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: rgb(247, 247, 228);
+    line-height: 3rem;
+    text-align: center;
+}
+body {
+    background-color: rgb(254, 255, 247);
+}
+
+h1:hover {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
